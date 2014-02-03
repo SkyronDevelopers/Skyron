@@ -141,7 +141,7 @@ The complication come when styling these elements are an absolute necessity.
 Most of the time we're provided with elements like iframes on which **we don't have our hands on**, or we're restricted because of **"Cross Domain Policy"**. But the most frustrating part is when the service's provider just explicitelly don't allow you to do what you want ( see twitter new embedded [policy][3])
 
 >
->  Embedded timelines are available in light and dark themes for customization
+>  *Embedded timelines are available in light and dark themes for customization*
 >
 
 
